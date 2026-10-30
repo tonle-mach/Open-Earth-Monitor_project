@@ -68,7 +68,12 @@ This repository is based on [TTPlus_datatool repository](https://github.com/vale
 
 The original data processing tools provided the foundation for this project. Some of the original scripts have been adapted, while additional processing scripts have been developed to extend the workflow with data cleaning, deduplication, harmonization, and ancillary data integration functionalities.
 
-The original authors' contributions are gratefully acknowledged.
+Special thanks to the following individuals for their contributions and support:
+
+- **Shahla Asgharinia**, Nature 4.0
+- **Luca Belelli Marchesini**, Fondazione Edmund Mach
+- **Valerio Coppola**, Nature 4.0
+- **Barbara Marcolla**, Fondazione Edmund Mach
 
 ## License
 
