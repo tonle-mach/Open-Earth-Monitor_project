@@ -12,7 +12,7 @@ import pandas as pd
 SITE_NAME = "viote"
 SITE_NAME_AFTER_JOIN = "Viote"
 
-ANCILLARY_DATA_PATH = "../anc_data.xlsx"
+ANCILLARY_DATA_PATH = "../input_data/anc_data.xlsx"
 
 BASE_DIR = Path("../data/output_data_tool")
 
